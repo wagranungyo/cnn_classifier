@@ -1,2 +1,2 @@
 # CNN classifier
-NLP
+# CNN 파일수정입니다!
