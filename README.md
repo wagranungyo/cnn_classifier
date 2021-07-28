@@ -1,2 +1,2 @@
 # CNN classifier
-# CNN 파일수정입니다!
+파일수정 연습입니다!
