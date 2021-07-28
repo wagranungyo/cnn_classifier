@@ -1,2 +1,2 @@
-# word2vec
+# CNN classifier
 NLP
