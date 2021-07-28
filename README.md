@@ -1,2 +1,1 @@
-# CNN classifier
-파일수정입니다!
+# CNN TEXT classifier
